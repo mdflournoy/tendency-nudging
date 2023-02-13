@@ -1,0 +1,3 @@
+This folder contains namelist.input, toy.input, and input_sounding files for the S_0 = 0.018 K/s simulation in Flournoy and Rasmussen (2023; MWR). The input_sounding file is identical for all simulations. The namelist.input files are identical except for the output directory. The toy.input files are identical except for "warmamp", which is equal to 0.016, 0.017, 0.018, 0.019, 0.020, or 0.021 depending on the simulation.
+
+Please contact Matt Flournoy if you have any questions, concerns, or beer offerings. (matthew.flournoy@noaa.gov)
